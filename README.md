@@ -1,2 +1,8 @@
 # Horiseon-Refactor-M01
-Module/Week 1 Challenge
+
+Project Title: Module/Week 1 Challenge
+
+Project Description: Refactor existing html and css by adding semanitc elements while maintaining current structure and appearance of webpage.
+
+Note: front-end only with no backend functionality
+
